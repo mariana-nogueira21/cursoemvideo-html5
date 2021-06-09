@@ -1,0 +1,10 @@
+@charset "UTF-8";
+h1 {
+	color: rgb(27,20,127);	
+}
+
+li {
+	display: inline-block; 
+	background-color: #dddddd;
+	padding: 10px;
+}
